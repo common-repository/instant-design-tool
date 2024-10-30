@@ -1,0 +1,511 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Instant Design Tool\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-28 15:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.5.1"
+
+#: includes/Core/PrintApi/IDT_PrintApi.php:99
+msgctxt "ADMIN_PANEL"
+msgid " can be forwarded to Print API"
+msgstr ""
+
+#: includes/Core/PrintApi/IDT_PrintApi.php:106
+msgctxt "ADMIN_PANEL"
+msgid " items was unsuccessful."
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:70
+msgctxt "ADMIN_PANEL"
+msgid "Add New"
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:69
+msgctxt "ADMIN_PANEL"
+msgid "Add New Button"
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:67
+msgctxt "ADMIN_PANEL"
+msgid "All Buttons"
+msgstr ""
+
+#: includes/Core/PrintApi/IDT_PrintApi_Products_Dropdown.php:100
+msgctxt "ADMIN_PANEL"
+msgid "All products in your catalogue have been linked already"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:173
+msgctxt "ADMIN_PANEL"
+msgid "Allow unpaid orders to be forwarded"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:167
+msgctxt "ADMIN_PANEL"
+msgid "Allow unpaid orders to be forwarded?"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:163
+msgctxt "ADMIN_PANEL"
+msgid "Always"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:85
+msgctxt "ADMIN_PANEL"
+msgid "Connection Status"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:201
+msgctxt "ADMIN_PANEL"
+msgid "Connection status"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_Handler.php:32
+msgctxt "ADMIN_PANEL"
+msgid "Design tool product"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:96
+msgctxt "ADMIN_PANEL"
+msgid ""
+"Do you want your customers to be able to proceed to checkout without logging "
+"in?"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:174
+msgctxt "ADMIN_PANEL"
+msgid "Don't allow unpaid orders to be forwarded"
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:71
+msgctxt "ADMIN_PANEL"
+msgid "Edit Button"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_Handler.php:46
+msgctxt "ADMIN_PANEL"
+msgid "Editable Product"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:125
+msgctxt "ADMIN_PANEL"
+msgid "Editable product button text"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:135
+msgctxt "ADMIN_PANEL"
+msgid "Editable product button text on the product page"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_Display_PrintApi_Forward_Status.php:84
+msgctxt "ADMIN_PANEL"
+msgid "Error"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_Handler.php:68
+msgctxt "ADMIN_PANEL"
+msgid "External ProductId"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_Display_PrintApi_Forward_Status.php:87
+msgctxt "ADMIN_PANEL"
+msgid "Failed"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:94
+msgctxt "ADMIN_PANEL"
+msgid "Guest checkout mode"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:70
+msgctxt "ADMIN_PANEL"
+msgid "IDT API key"
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:66
+msgctxt "ADMIN_PANEL"
+msgid "IDT Buttons"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:79
+msgctxt "ADMIN_PANEL"
+msgid "IDT connect code"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:36
+msgctxt "ADMIN_PANEL"
+msgid "IDT Settings"
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:78
+msgctxt "ADMIN_PANEL"
+msgid "IDT_button"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:169
+msgctxt "ADMIN_PANEL"
+msgid ""
+"If you have selected \"Always\" as usage option. Would you also like unpaid "
+"orders to be forwarded?"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:192
+msgctxt "ADMIN_PANEL"
+msgid ""
+"In which environment should the Print API be used? Please note that "
+"selecting live will result in orders being fulfilled.\n"
+"\t\t\t The system will automatically reset your environment to test if it "
+"detects a live environment with test keys."
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:64
+msgctxt "ADMIN_PANEL"
+msgid "Instant Design Tool general settings"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_ProductFields.php:31
+msgctxt "ADMIN_PANEL"
+msgid "Link to Design tool product"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:197
+msgctxt "ADMIN_PANEL"
+msgid "Live"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:161
+msgctxt "ADMIN_PANEL"
+msgid "Never"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:100
+#: includes/Admin/IDT_Settings_Tab.php:110
+#: includes/Admin/IDT_Settings_Tab.php:120
+msgctxt "ADMIN_PANEL"
+msgid "No"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_Display_PrintApi_Forward_Status.php:68
+msgctxt "ADMIN_PANEL"
+msgid "No design tool Products"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_Display_PrintApi_Forward_Status.php:81
+msgctxt "ADMIN_PANEL"
+msgid "Not forwarded"
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:74
+msgctxt "ADMIN_PANEL"
+msgid "Not found"
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:75
+msgctxt "ADMIN_PANEL"
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_ProductFields.php:45
+msgctxt "ADMIN_PANEL"
+msgid "Only supply if the product has multiple pages"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:162
+msgctxt "ADMIN_PANEL"
+msgid "Optionally"
+msgstr ""
+
+#: includes/Core/PrintApi/IDT_PrintApi_Products_Dropdown.php:74
+msgctxt "ADMIN_PANEL"
+msgid "Please connect your design tool"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:180
+msgctxt "ADMIN_PANEL"
+msgid ""
+"Please provide the Print API client id. Note: this is not necessary if you "
+"are not using Print API."
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:186
+msgctxt "ADMIN_PANEL"
+msgid ""
+"Please provide the Print API secret, note that this is not necessary if you "
+"are not using the Print API."
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_Handler.php:71
+msgctxt "ADMIN_PANEL"
+msgid "Please supply the productId that the product has in Print API"
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:79
+msgctxt "ADMIN_PANEL"
+msgid "Post Type voor IDT_buttons"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_Display_output_request_status.php:45
+msgctxt "ADMIN_PANEL"
+msgid ""
+"Press this button to retry the high-res output pdf generation. Please note "
+"that this might take some time"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_ProductFields.php:39
+msgctxt "ADMIN_PANEL"
+msgid "Price per page"
+msgstr ""
+
+#: includes/Core/PrintApi/IDT_PrintApi.php:42
+msgctxt "ADMIN_PANEL"
+msgid "Print API "
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:178
+msgctxt "ADMIN_PANEL"
+msgid "Print API client id"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:190
+msgctxt "ADMIN_PANEL"
+msgid "Print API environment"
+msgstr ""
+
+#: includes/Core/PrintApi/IDT_PrintApi.php:85
+msgctxt "ADMIN_PANEL"
+msgid "Print API is not connected"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:184
+msgctxt "ADMIN_PANEL"
+msgid "Print API secret"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:150
+msgctxt "ADMIN_PANEL"
+msgid "Print API settings"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_Register_Order_Statuses.php:23
+#: includes/Core/WooCommerce/IDT_Register_Order_Statuses.php:43
+msgctxt "ADMIN_PANEL"
+msgid "Print API Shipped"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_Update_Order_Status.php:51
+msgctxt "ADMIN_PANEL"
+msgid "Print API updated the status:"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_Show_Pid_On_Product_Page.php:23
+msgctxt "ADMIN_PANEL"
+msgid "Product ID"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_ProductFields.php:33
+msgctxt "ADMIN_PANEL"
+msgid "productid"
+msgstr ""
+
+#: includes/Core/PrintApi/IDT_PrintApi.php:108
+msgctxt "ADMIN_PANEL"
+msgid "Retry!"
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:73
+msgctxt "ADMIN_PANEL"
+msgid "Search Button"
+msgstr ""
+
+#: includes/Core/PrintApi/IDT_PrintApi.php:130
+msgctxt "ADMIN_PANEL"
+msgid "Send Order"
+msgstr ""
+
+#: includes/Core/PrintApi/IDT_PrintApi.php:123
+msgctxt "ADMIN_PANEL"
+msgid "Send this order's items to Print API?"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:104
+msgctxt "ADMIN_PANEL"
+msgid "Show product details in cart?"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:137
+msgctxt "ADMIN_PANEL"
+msgid "Start design"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_Display_PrintApi_Forward_Status.php:75
+msgctxt "ADMIN_PANEL"
+msgid "Success"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:196
+msgctxt "ADMIN_PANEL"
+msgid "Test"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_ProductFields.php:44
+msgctxt "ADMIN_PANEL"
+msgid "The default value is 0.50"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:87
+msgctxt "ADMIN_PANEL"
+msgid ""
+"This indicates whether the connection with Instant Design Tool has been made."
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:203
+msgctxt "ADMIN_PANEL"
+msgid "This indicates whether the Print API is connected or not."
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:72
+msgctxt "ADMIN_PANEL"
+msgid "This is automatically generated."
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:106
+msgctxt "ADMIN_PANEL"
+msgid ""
+"This option will determine if the project details will be shown in the cart."
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:221
+msgctxt "ADMIN_PANEL"
+msgid ""
+"This section will be enabled after the inital connection to Instant Design "
+"Tool has been made."
+msgstr ""
+
+#: includes/Core/PrintApi/IDT_PrintApi.php:49
+msgctxt "ADMIN_PANEL"
+msgid "Tracking link:"
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:72
+msgctxt "ADMIN_PANEL"
+msgid "Update Button"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:114
+msgctxt "ADMIN_PANEL"
+msgid "Use custom texts for buttons?"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:156
+msgctxt "ADMIN_PANEL"
+msgid "Use Print API?"
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:68
+msgctxt "ADMIN_PANEL"
+msgid "View Button"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:127
+msgctxt "ADMIN_PANEL"
+msgid "View product"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:158
+msgctxt "ADMIN_PANEL"
+msgid "Would you like to make use of the Print API?"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:99
+#: includes/Admin/IDT_Settings_Tab.php:109
+#: includes/Admin/IDT_Settings_Tab.php:119
+msgctxt "ADMIN_PANEL"
+msgid "Yes"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:81
+msgctxt "ADMIN_PANEL"
+msgid ""
+"You can generate this code in your Design Tool management panel. The plugin "
+"will not work without this code."
+msgstr ""
+
+#: includes/Core/API/Snapshot/IDT_SnapshotEndpoint_Push.php:235
+msgctxt "CART METADATA"
+msgid "Amount of pages"
+msgstr ""
+
+#: includes/Core/API/Snapshot/IDT_SnapshotEndpoint_Push.php:223
+msgctxt "CART METADATA"
+msgid "Edit your product here"
+msgstr ""
+
+#: includes/Core/API/Snapshot/IDT_SnapshotEndpoint_Push.php:228
+msgctxt "CART METADATA"
+msgid "Project Title"
+msgstr ""
+
+#. Description of the plugin
+msgid "Connect WooCommerce to your Instant Design Tool."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.instantdesigntool.com"
+msgstr ""
+
+#. Name of the plugin
+msgid "Instant Design Tool"
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:64
+msgctxt "Post Type General Name"
+msgid "IDT_Buttons"
+msgstr ""
+
+#: includes/Admin/IDT_Button_Post_Type.php:65
+msgctxt "Post Type Singular Name"
+msgid "IDT_Button"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_Handler.php:90
+msgctxt "PRODUCT PAGE"
+msgid "Design this product"
+msgstr ""
+
+#. %s: Product title
+#: includes/Core/WooCommerce/Register_Editable_product.php:57
+#, php-format
+msgctxt "WEBSITE"
+msgid "Add \"%s\" to your cart"
+msgstr ""
+
+#: includes/Core/API/Snapshot/IDT_SnapshotEndpoint_Push.php:225
+msgctxt "WEBSITE"
+msgid "Editor"
+msgstr ""
+
+#: includes/Core/API/Snapshot/IDT_SnapshotEndpoint_Push.php:279
+msgctxt "WEBSITE"
+msgid "Project Title"
+msgstr ""
+
+#: includes/Core/WooCommerce/Register_Editable_product.php:45
+msgctxt "WEBSITE"
+msgid "Read More"
+msgstr ""
+
+#: includes/Core/WooCommerce/Register_Editable_product.php:57
+#, php-format
+msgctxt "WEBSITE"
+msgid "Read more about \"%s\""
+msgstr ""

@@ -1,0 +1,19 @@
+{
+  "name": "melle/idt",
+  "authors": [
+    {
+      "name": "MelchiorKokernoot"
+    }
+  ],
+  "require": {
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "IDT\\": "includes/"
+    },
+    "classmap": [
+      "includes/"
+    ]
+  }
+}

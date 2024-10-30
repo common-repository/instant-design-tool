@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IDT\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-09 11:55+0000\n"
+"PO-Revision-Date: 2019-08-09 12:00+0000\n"
+"Last-Translator: admin <admin@idt.tk>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. %s: Product title
+#: includes/Core/WooCommerce/Register_Editable_product.php:62
+#, php-format
+msgctxt "Voeg &ldquo;%s&rdquo; toe aan winkelwagen"
+msgid "Add &ldquo;%s&rdquo; to your cart"
+msgstr ""
+
+#. Name of the plugin
+#: includes/Admin/IDT_Settings_Tab.php:58
+msgid "IDT"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:64
+msgid "IDT Api Key"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:28
+msgctxt "IDT instellingen"
+msgid "IDT Settings"
+msgstr ""
+
+#: includes/Core/WooCommerce/Register_Editable_product.php:46
+msgctxt "Wijzig nu"
+msgid "Edit now"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_Handler.php:48
+msgid "Editable Product"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:76
+msgid "Editable product button text"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:82
+msgid "Editable product button text on the product page"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_Handler.php:67
+msgid "Editable Product Spec"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_Handler.php:35
+msgid "Editor Product"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:70
+msgid "Editor URL"
+msgstr ""
+
+#: includes/Core/WooCommerce/IDT_WooCommerce_Handler.php:70
+msgid "Enter editor product info."
+msgstr ""
+
+#. Description of the plugin
+msgid "Het begin van de IDT plugin"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:66
+msgid "Please provide the IDT api key"
+msgstr ""
+
+#: includes/Core/WooCommerce/Register_Editable_product.php:49
+msgid "Read More"
+msgstr ""
+
+#: includes/Core/WooCommerce/Register_Editable_product.php:62
+#, php-format
+msgid "Read more about &ldquo;%s&rdquo;"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:84
+msgid "The text to display on the editable product button on the product page"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:78
+msgctxt "De text die wordt weergegeven op de winkel pagina"
+msgid "The text to display on the editable product button on the shop page"
+msgstr ""
+
+#: includes/Admin/IDT_Settings_Tab.php:72
+msgctxt "Waar uw editor is geplaatst"
+msgid "Where your editor is located"
+msgstr ""
